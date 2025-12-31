@@ -1,14 +1,6 @@
 <!--- banner --->
 <img src="./banner/Final_Final_Cover.png" alt="Md Raihan Chowdhoury Cover Photo">
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=chowdhoury&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=5271ff&sideLabels=00F0FF&currStreakNum=5271FF&ring=5271FF&currStreakLabel=5271FF&sideNums=00F0FF" />
-</p>
-<br/>
-
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
@@ -33,6 +25,14 @@
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/chowdhoury/)**
 - 📫 Feel free to reach me out **[Email](mdr8077@gmail.com)**
   
+<br/>
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=chowdhoury&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=5271ff&sideLabels=00F0FF&currStreakNum=5271FF&ring=5271FF&currStreakLabel=5271FF&sideNums=00F0FF" />
+</p>
 <br/>
 
 <!--- socials --->
