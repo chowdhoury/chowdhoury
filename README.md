@@ -30,8 +30,6 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chowdhoury&theme=react&hide_border=true&stroke=0D1117&fire=5271FF&sideLabels=00F0FF&currStreakNum=5271FF&ring=5271FF&currStreakLabel=5271FF&background=0D1117&sideNums=00F0FF" alt="GitHub Streak" /></a>
-<br/>
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=chowdhoury&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=5271ff&sideLabels=00F0FF&currStreakNum=5271FF&ring=5271FF&currStreakLabel=5271FF&sideNums=00F0FF" />
 </p>
