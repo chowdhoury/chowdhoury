@@ -95,9 +95,7 @@
 
 ### GitHub Statistics:
 ![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### Repository Stats:
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=chowdhoury&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> |
