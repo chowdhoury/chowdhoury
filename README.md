@@ -33,8 +33,12 @@
 
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=chowdhoury&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=5271ff&sideLabels=00F0FF&currStreakNum=5271FF&ring=5271FF&currStreakLabel=5271FF&sideNums=00F0FF" />
+  <img
+    width="75%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=chowdhoury&hide_border=true&background=0D1117&stroke=0D1117&ring=5271FF&fire=5271FF&currStreakNum=5271FF&currStreakLabel=5271FF&sideNums=00F0FF&sideLabels=00F0FF&dates=8B949E"
+  />
 </p>
+
 
 
 <br/>
