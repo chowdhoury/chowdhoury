@@ -14,7 +14,10 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md Raihan Chowdhoury</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Competitive+Programmer;MERN+Stack+Web+Developer;Interested+in+AI/ML" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Web+Developer;Problem+Solver;Machine+Learning+Engineer" alt="Typing SVG" />
+</a>
+
   </ul>
 </div>
 
@@ -87,16 +90,16 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/chowdhoury/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/chowdhoury/chowdhoury/blob/output/github-snake-dark.svg)
 
 
 ### GitHub Statistics:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=chowdhoury&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowdhoury&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
+| ------------- |
 
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=chowdhoury&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=chowdhoury" /></a> |
-| ------------- | ------------- |
+### Repository Stats:
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=chowdhoury&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> |
+| ------------- |
 
 <br/>
 
