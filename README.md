@@ -98,7 +98,12 @@
 ![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### Repository Stats:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=chowdhoury&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> |
+| <a>
+  <img
+    align="center"
+    src="https://github-contributor-stats.vercel.app/api?username=chowdhoury&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true#gh-dark-mode-only"
+  />
+</a> |
 | ------------- |
 
 <br/>
