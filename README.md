@@ -94,8 +94,7 @@
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=chowdhoury&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowdhoury&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- |
+[![Chowdhory's GitHub stats](https://github-readme-stats.vercel.app/api?username=chowdhoury)](https://github.com/chowdhoury/github-readme-stats)
 
 ### Repository Stats:
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=chowdhoury&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> |
