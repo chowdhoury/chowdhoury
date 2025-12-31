@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/Final_Cover.png" alt="Md Raihan Chowdhoury Cover Photo">
+<img src="./banner/Final_Final_Cover.png" alt="Md Raihan Chowdhoury Cover Photo">
 
 <br/>
 
